@@ -2,14 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/about/index.html</loc>
+    <loc>https://kang199425.github.io/2021/08/22/myBlog/</loc>
+    
+    <lastmod>2021-08-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kang199425.github.io/about/index.html</loc>
     
     <lastmod>2021-08-21</lastmod>
     
   </url>
   
   <url>
-    <loc>http://example.com/2021/08/21/hello-world/</loc>
+    <loc>https://kang199425.github.io/2021/08/21/hello-world/</loc>
     
     <lastmod>2021-08-21</lastmod>
     
@@ -17,13 +24,27 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://kang199425.github.io/</loc>
     <lastmod>2021-08-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://kang199425.github.io/tags/blog/</loc>
+    <lastmod>2021-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://kang199425.github.io/categories/java/</loc>
+    <lastmod>2021-08-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 </urlset>

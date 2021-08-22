@@ -3,11 +3,11 @@
   <title>大胡子先生</title>
   
   <subtitle>你知道的越多,你不知道的也越多</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://kang199425.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-08-21T12:23:28.144Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://kang199425.github.io/"/>
+  <updated>2021-08-22T15:44:31.103Z</updated>
+  <id>https://kang199425.github.io/</id>
   
   <author>
     <name>YANG KANG</name>
@@ -17,9 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>myBlog</title>
+    <link href="https://kang199425.github.io/2021/08/22/myBlog/"/>
+    <id>https://kang199425.github.io/2021/08/22/myBlog/</id>
+    <published>2021-08-22T09:43:31.000Z</published>
+    <updated>2021-08-22T15:44:31.103Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="我的第一个博客"><a href="#我的第一个博客" class="headerlink" title="我的第一个博客"></a>我的第一个博客</h1><h2 id="欢迎访问！"><a href="#欢迎访问！" class="headerlink" title="欢迎访问！"></a>欢迎访问！</h2><img src="/2021/08/22/myBlog/kuli.jpeg" class title="This is an example image">]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="java" scheme="https://kang199425.github.io/categories/java/"/>
+    
+    
+    <category term="blog" scheme="https://kang199425.github.io/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/08/21/hello-world/"/>
-    <id>http://example.com/2021/08/21/hello-world/</id>
+    <link href="https://kang199425.github.io/2021/08/21/hello-world/"/>
+    <id>https://kang199425.github.io/2021/08/21/hello-world/</id>
     <published>2021-08-21T12:23:28.143Z</published>
     <updated>2021-08-21T12:23:28.144Z</updated>
     
